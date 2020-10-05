@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #f9f7d9;
+}
+h1 {
+    color: #e11d74;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Century Gothic';
+    text-align: center;
+}
+p {
+    color: #000000;
+    font-weight: normal;
+    font-size: 17px;
+    font-family: Arial;
+    text-align: center;
+}
+hr {
+    border-top: 1px dotted #9d65c9;
+}
+
